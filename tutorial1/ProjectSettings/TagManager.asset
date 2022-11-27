@@ -7,6 +7,7 @@ TagManager:
   - FxTemporaire
   - Dissapearing
   - NonDissapearing
+  - Score
   layers:
   - Default
   - TransparentFX
